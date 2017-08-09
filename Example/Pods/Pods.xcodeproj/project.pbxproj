@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		19A5DA9700CBF00F83809671C1998070 /* Pods-SamplePod_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F4E2CB86867F604A77E20A37BF234A9 /* Pods-SamplePod_Tests-dummy.m */; };
 		21E2D69D3C08A7B92D1A9F97C283C47C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
-		5956416C1F3B16CB0064544E /* NLLoginViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 5956416A1F3B16CB0064544E /* NLLoginViewController.h */; };
+		5956416C1F3B16CB0064544E /* NLLoginViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 5956416A1F3B16CB0064544E /* NLLoginViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5956416D1F3B16CB0064544E /* NLLoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5956416B1F3B16CB0064544E /* NLLoginViewController.m */; };
 		796171D49B22D3CCE5297131255E9883 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C7CD2D065AED7882B651C75E5883293 /* ReplaceMe.m */; };
 		82B6DB67F4CBD6BA4FA6B90A57A1E2A7 /* Pods-SamplePod_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 5744DF988867B4EB03CA1A431A19FBD0 /* Pods-SamplePod_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
